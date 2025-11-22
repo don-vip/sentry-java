@@ -5,6 +5,7 @@
 ### Features
 
 - Hook User Interaction integration into running Activity in case of deferred SDK init ([#4387](https://github.com/getsentry/sentry-java/pull/4387))
+- Add support for Spring Boot 4 and Spring 7 ([#4739](https://github.com/getsentry/sentry-java/pull/XXXX))
 
 ## 7.22.5
 

@@ -24,6 +24,11 @@ jobs:
           - sample: "sentry-samples-spring-boot"
           - sample: "sentry-samples-spring-boot-webflux-jakarta"
           - sample: "sentry-samples-spring-boot-webflux"
+          - sample: "sentry-samples-spring-boot-4"
+          - sample: "sentry-samples-spring-boot-4-webflux"
+          - sample: "sentry-samples-spring-7"
+          - sample: "sentry-samples-spring-jakarta"
+          - sample: "sentry-samples-spring"
     steps:
       - uses: actions/checkout@v4
         with:
